@@ -58,23 +58,6 @@ This repository contains a project that builds an autoregression (AR) model to a
 - statsmodels
 - math
 
-## Usage
-
-1. Clone this repository:
-    ```
-    git clone https://github.com/yourusername/covid-ar-model.git
-    ```
-
-2. Navigate to the project directory:
-    ```
-    cd covid-ar-model
-    ```
-
-3. Install the required dependencies:
-    ```
-    pip install -r requirements.txt
-    ```
-
 ## Results
 
 The analysis and AR model provide insights into the trends and patterns in COVID-19 cases in India. The model's performance is evaluated using metrics such as RMSE and MAPE, and the results are visualized using various plots.
