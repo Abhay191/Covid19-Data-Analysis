@@ -75,11 +75,6 @@ This repository contains a project that builds an autoregression (AR) model to a
     pip install -r requirements.txt
     ```
 
-4. Run the Jupyter notebook:
-    ```
-    jupyter notebook covid_ar_model.ipynb
-    ```
-
 ## Results
 
 The analysis and AR model provide insights into the trends and patterns in COVID-19 cases in India. The model's performance is evaluated using metrics such as RMSE and MAPE, and the results are visualized using various plots.
